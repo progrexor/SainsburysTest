@@ -21,3 +21,4 @@ The results of the run will appear in the `data` folder.
 There will be two files one is **cleaned** data, another file is **rejected** rows.
 
 
+http://progrexor.github.io/SainsburysTest/
