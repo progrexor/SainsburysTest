@@ -6,7 +6,7 @@ DPP Technical Assignment
 
 1. Use a tool of your choice to create a test data set containing at least 1000 tuples of email addresses, phone numbers, and names. The data should show evidence of at least 5 distinct data quality problems per column, which you will address with a data transformation script.
 
-2. Write a transformation script (e.g. Python, R) to clean up your test data. Each of the 15 problems you identified should be clearly identifiable in the code. The output should be a CSV file.
+2. Write a transformation script (e.g. Python, R, SAS) to clean up your test data. Each of the 15 problems you identified should be clearly identifiable in the code. The output should be a CSV file.
 
 ==================================================================================================================
 
